@@ -1,0 +1,11 @@
+.navigation {
+    display: flex;
+}
+.title {
+    font-size: larger;
+    border: solid black 2px;
+    border-radius: 10px;
+}
+.activeTab {
+    background-color: gray;
+}
